@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
-      <img src="https://hentaileague.com/wp-content/uploads/2019/07/e8b8ad5219c7543ef77eaed7968ed028.png" alt="janna's tools">
+      <img src="https://hentaileague.com/wp-content/uploads/2019/07/e8b8ad5219c7543ef77eaed7968ed028.png" alt="janna's tools"/>
     </div>
   )
 }
